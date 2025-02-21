@@ -1,0 +1,6 @@
+
+Erro do codigo: No codigo fornecido o  atributos name e age da classe person são públicos, sendo assim qualquer parte do código pode os modificar diretamente
+
+Solução do erro:Para solucionar essa questão será necessario mudar atributos para private e inserir os getters e setters
+
+
